@@ -1,2 +1,2 @@
-﻿  glew.c
-..\..\src\glew.c(32): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+﻿     Creating library ..\..\lib\Debug\Win32\glew32d.lib and object ..\..\lib\Debug\Win32\glew32d.exp
+  glew_shared.vcxproj -> D:\Dev\SDK\glew\build\vc12\..\..\bin\Debug\Win32\glew32d.dll
