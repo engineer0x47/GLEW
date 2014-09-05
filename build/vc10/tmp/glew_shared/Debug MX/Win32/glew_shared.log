@@ -1,0 +1,3 @@
+﻿  glew.c
+     Creating library ../../lib\Debug MX\Win32\glew32mxd.lib and object ../../lib\Debug MX\Win32\glew32mxd.exp
+  glew_shared.vcxproj -> D:\Dev\SDK\GLEW\build\vc10\../../bin\Debug MX\Win32\glew32mxd.dll
